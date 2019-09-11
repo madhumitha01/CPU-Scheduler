@@ -1,4 +1,4 @@
-# CPU-Scheduling
+# CPU-Scheduler
 
 Getdata method contains the user input for no. of process and burst time for process. Fcfs method calculates First come First served Algorithm and show the Total and Average Weighting Time. Sjf method calculates Shortest job First Algorithm, SjfNp is Shortest job First Algorithm with Non Preemptive, SjfP is Shortest job First Algorithm with Preemption and RoundRobin method is Round Robin Algorithm  and show the Total and Average Weighting Time.
 
